@@ -1,0 +1,65 @@
+[33mcommit 9412cb9d53973cc378c96497082eb3c3f58cddf4[m
+Author: Mitsuhisa Kaneko <kanekom@ya2.so-net.ne.jp>
+Date:   Sun Mar 25 06:57:05 2018 +0000
+
+    fix wall stop accel script
+
+[33mcommit 335a1c6e5e85711e30141d9c5ca947f53cede589[m
+Author: Mitsuhisa Kaneko <kanekom@ya2.so-net.ne.jp>
+Date:   Sun Mar 25 06:51:55 2018 +0000
+
+    fix wall stop accel test2
+
+[33mcommit fae7cd1798ffb73022407c4012f56003f6ca5028[m
+Author: Mitsuhisa Kaneko <kanekom@ya2.so-net.ne.jp>
+Date:   Sun Mar 25 06:38:32 2018 +0000
+
+    fix wall stop accel test
+
+[33mcommit 0feabe0114d9c6a101776e5589260a8e7f993c32[m
+Author: Mitsuhisa Kaneko <kanekom@ya2.so-net.ne.jp>
+Date:   Sun Mar 25 06:31:47 2018 +0000
+
+    add wall stop accel
+
+[33mcommit a679d198aee0ce740401f89bf27a118fbc402d11[m
+Author: Mitsuhisa Kaneko <kanekom@ya2.so-net.ne.jp>
+Date:   Sun Mar 25 06:08:51 2018 +0000
+
+    fix wall stop test
+
+[33mcommit 157e3d5b2461b4d833484e7618d179821b0cc5db[m
+Author: Mitsuhisa Kaneko <kanekom@ya2.so-net.ne.jp>
+Date:   Sun Mar 25 05:57:57 2018 +0000
+
+    add wall stop script2
+
+[33mcommit 6b9d3477ed55f52f0cbe166686b9144dde1fcb0e[m
+Author: Mitsuhisa Kaneko <kanekom@ya2.so-net.ne.jp>
+Date:   Sun Mar 25 05:20:43 2018 +0000
+
+    add wall stop script
+
+[33mcommit 2df2fb261af94146f9022d07d0f08f3da84a066e[m
+Author: Mitsuhisa Kaneko <kanekom@ya2.so-net.ne.jp>
+Date:   Sun Mar 25 05:07:27 2018 +0000
+
+    add wall stop test
+
+[33mcommit ddc0a8c6b6a4773ba9592917aae70e9f8e09607d[m
+Author: Mitsuhisa Kaneko <kanekom@ya2.so-net.ne.jp>
+Date:   Sun Mar 25 04:50:20 2018 +0000
+
+    add travis ci test
+
+[33mcommit ef57cd52552d786024ed4f603da0bfcd6df80353[m
+Author: Mitsuhisa Kaneko <kanekom@ya2.so-net.ne.jp>
+Date:   Sun Mar 25 04:24:08 2018 +0000
+
+    add new package
+
+[33mcommit 198c10c4d05c78adb52edd27f0844cf7833ee2ee[m
+Author: kanekom <33285749+kanekom@users.noreply.github.com>
+Date:   Sun Mar 25 13:23:05 2018 +0900
+
+    Initial commit
